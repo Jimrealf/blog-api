@@ -29,7 +29,7 @@ Server runs on http://localhost:3000.
 Explore the API:
 Open http://localhost:3000/api-docs in your browser for Swagger UI.
 
-Note: Tests are a work in progress—some may fail due to setup issues.
+## Note: Tests are a work in progress—some may fail due to setup issues.
 
 
 # Notes
